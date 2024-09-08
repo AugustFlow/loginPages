@@ -7,6 +7,8 @@ body {
     display: flex;
     flex-flow: column nowrap;
     padding: 50px;
+    height: 100vh;
+    background: linear-gradient(rgba(49, 49, 49, 0.637),rgb(55, 55, 124));
 }
 
 main {
