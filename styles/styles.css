@@ -8,10 +8,17 @@ body {
     flex-flow: column nowrap;
     padding: 50px;
     height: 100vh;
-    background: linear-gradient(rgba(49, 49, 49, 0.637),rgb(55, 55, 124));
+    background: linear-gradient(rgb(0, 0, 0),rgb(35, 13, 88));
+    color: rgb(171, 173, 255);
+    text-shadow: 0px 0px 15px rgba(249, 252, 252, 0.815);
 }
 
 main {
     display: flex;
     justify-content: space-evenly
+}
+
+.whiteShadow {
+    
+    text-transform: uppercase;
 }
