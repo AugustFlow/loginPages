@@ -1,0 +1,15 @@
+
+
+
+
+
+body {
+    display: flex;
+    flex-flow: column nowrap;
+    padding: 50px;
+}
+
+main {
+    display: flex;
+    justify-content: space-evenly
+}
